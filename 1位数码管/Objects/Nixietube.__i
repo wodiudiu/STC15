@@ -1,0 +1,1 @@
+"..\..\BSP\Nixietube.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(.\BSP) DEBUG OBJECTEXTEND PRINT(.\Listings\Nixietube.lst) TABS (2) OBJECT(.\Objects\Nixietube.obj)

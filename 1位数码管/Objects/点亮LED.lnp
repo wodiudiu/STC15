@@ -1,0 +1,7 @@
+".\Objects\STARTUP.obj",
+".\Objects\mian.obj",
+".\Objects\GPIO.obj",
+".\Objects\delay.obj",
+".\Objects\Nixietube.obj" 
+TO ".\Objects\µ„¡¡LED" 
+PRINT(".\Listings\µ„¡¡LED.m51") RAMSIZE(256) 
